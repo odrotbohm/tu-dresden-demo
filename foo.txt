@@ -1,4 +1,4 @@
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula
+Meine erste Zeile!
 eget dolor; Aenean massa; Cum sociis natoque penatibus et magnis dis parturient
 Hallo Welt!
 eu, pretium quis, sem! Nulla consequat massa quis enim? Donec pede justo,
